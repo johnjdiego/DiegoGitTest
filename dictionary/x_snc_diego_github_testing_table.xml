@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Diego GitHub Testing Table" max_length="40" name="x_snc_diego_github_testing_table" type="collection"/>
+</database>
